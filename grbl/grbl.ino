@@ -28,3 +28,5 @@ Released under the MIT-license. See license.txt for details.
 
 // Do not alter this file!
 // no -ftobler
+
+// this grbl project contains changes, the motor PWM ist inverted
