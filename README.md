@@ -1,6 +1,6 @@
-This is GRBL from https://github.com/gnea/grbl with the following modifications:
+This is a GRBL fork from https://github.com/gnea/grbl with the following modifications:
 * Inverted Spindle PWM. ATTENTION, POTENTIALLY DANGEROUS.
-* .ino file inside of GRBL directory
+* .ino file inside of GRBL directory for easy download
 
 ---
 
