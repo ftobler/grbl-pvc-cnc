@@ -1,3 +1,5 @@
+[![Arduino CLI Build](https://github.com/ftobler/grbl-pvc-cnc/actions/workflows/build.yml/badge.svg)](https://github.com/ftobler/grbl-pvc-cnc/actions/workflows/build.yml)
+
 This is a GRBL fork from https://github.com/gnea/grbl with the following modifications:
 * Inverted Spindle PWM. ATTENTION, POTENTIALLY DANGEROUS.
 * .ino file inside of GRBL directory for easy download
